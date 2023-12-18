@@ -1,1 +1,2 @@
 # CybersecurityAI
+[AG News-BERT-CLARE-Text Attack](https://github.com/renzy101/CybersecurityAI/blob/main/AG_News_CLARE_NLP_TextAttack_final.ipynb) and [QNLI-BERT-CLARE-Text Attack](https://github.com/renzy101/CybersecurityAI/blob/main/QNLI_CLARE_NLP_TextAttack_final.ipynb) files are my reproduction of the experiments in the paper using text attack since the environment provided by the researchers were broken. They were exexuted using Google Colab Pro
